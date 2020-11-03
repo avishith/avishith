@@ -10,4 +10,7 @@
 - 📫 How to reach me: insta @avishithpm
 
 
+[![Avishith's github stats](https://github-readme-stats.vercel.app/api?username=avishith)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
