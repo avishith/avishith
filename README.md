@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning Python and nodejs
 - 👯 I’m looking to collaborate on open source
 
-- 💬 Ask me about Python , HTML , CSS
+- 💬 Ask me about Python 
 - 📫 How to reach me: insta @avishithpm
 
 
